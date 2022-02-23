@@ -1,4 +1,4 @@
-### Hi there 👋🙏🏻, I'm Anish! <img src="https://giphy.com/stickers/haydiroket-transparent-haydiroket-running-9KawrQzIwdAYg" width="30">
+### Hi there 👋🙏🏻, I'm Anish! <img src="https://giphy.com/stickers/haydiroket-transparent-haydiroket-running-9KawrQzIwdAYg/giphy.gif" width="30">
 
 - 🔭 I’m currently working at [Geoinformatics Center-Asian Institute of Technology](http://geoinfo.ait.ac.th/).
 - 🌱 I’m currently learning Python and Google Earth Engine.
