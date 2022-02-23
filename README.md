@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Geoinformatics Center-Asian Institute of Technology
+- 🌱 I’m currently learning Python and Google Earth Engine.
+- 🤔 I’m looking for help with Python and Google Earth Engine.
+- 💬 Ask me about Arc Map, Arc Pro, ILWIS, RiskChanges, Natural Hazards and Disaster Risk Reduction, Multi-Hazard Risk Assessment. 
+- 📫 How to reach me: ...
+
 <!--
 **shakyaanice/shakyaanice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
