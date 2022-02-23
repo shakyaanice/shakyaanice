@@ -1,4 +1,4 @@
-### Hi there 👋 ### नमस्ते (Namaste)🙏🏻, I'm Anish! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+### Hi there 👋🙏🏻, I'm Anish! <img src="https://giphy.com/gifs/nintendo-mario-Lp2DXaHwco9FK/fullscreen" width="50">
 
 - 🔭 I’m currently working at [Geoinformatics Center-Asian Institute of Technology](http://geoinfo.ait.ac.th/).
 - 🌱 I’m currently learning Python and Google Earth Engine.
