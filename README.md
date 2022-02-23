@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at [Geoinformatics Center-Asian Institute of Technology](http://geoinfo.ait.ac.th/).
 - 🌱 I’m currently learning Python and Google Earth Engine.
-- 🤔 I’m looking for help with Python and Google Earth Engine.
+- 🤔 I’m looking for help on the application of programming in the domain of natural hazard and risk assessment.
 - 💬 Ask me about Geospatial Analysis, Earth Observation, ILWIS, RiskChanges, Natural Hazards and Disaster Risk Reduction, Multi-Hazard Risk Assessment. 
 - 📫 How to reach me: LinkedIn [@shakyaanice](https://www.linkedin.com/in/anish-ratna-shakya-47234a121/)
 
