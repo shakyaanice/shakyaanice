@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python and Google Earth Engine.
 - 🤔 I’m looking for help with Python and Google Earth Engine.
 - 💬 Ask me about Geospatial Analysis, Earth Observation, ILWIS, RiskChanges, Natural Hazards and Disaster Risk Reduction, Multi-Hazard Risk Assessment. 
-- 📫 How to reach me: linkenin [shakyaanice](https://www.linkedin.com/in/anish-ratna-shakya-47234a121/)
+- 📫 How to reach me: LinkedIn [@shakyaanice](https://www.linkedin.com/in/anish-ratna-shakya-47234a121/)
 
 <!--
 **shakyaanice/shakyaanice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
