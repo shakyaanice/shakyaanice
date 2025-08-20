@@ -1,6 +1,6 @@
 ### Hi there 👋🙏🏻, I'm Anish! <img src="giphy.gif" width="50">
 
-- 🌱 I am currently PhD student in [Texas A&M University, Galveston, Texas](https://marine.tamu.edu/academics/graduate-programs/phd-marine-coastal-science.html).
+- 🌱 I am currently a PhD student in [Texas A&M University, Galveston, Texas](https://marine.tamu.edu/academics/graduate-programs/phd-marine-coastal-science.html).
 - 🔭 I  used to work at [Geoinformatics Center-Asian Institute of Technology](http://geoinfo.ait.ac.th/).
 - 🤔 I’m looking for help on the application of programming in the domain of natural hazard and risk assessment.
 - 💬 Ask me about Geospatial Analysis, Earth Observation, ILWIS, RiskChanges, Natural Hazards and Disaster Risk Reduction, Multi-Hazard Risk Assessment. 
